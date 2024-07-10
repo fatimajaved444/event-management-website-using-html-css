@@ -288,15 +288,16 @@
     padding: 2px 2px;
    
 }
-.ref-img
-{
-    height: 300px;
-    width: 370px;
-}
 .footer-copyright
 {
     color: white;
     background-color: black;
+}
+
+.ref-img
+{
+    height: 300px;
+    width: 370px;
 }
 
 
